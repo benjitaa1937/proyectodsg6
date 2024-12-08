@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "sweetalert2": "^11.14.5"
+  }
+}
